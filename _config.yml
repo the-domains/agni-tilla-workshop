@@ -1,0 +1,28 @@
+name: agni.tilla workshop
+favicon: null
+layout_spectrum: 0.24036
+typography_spectrum: 0.63223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#c7a093'
+    - '#535eaa'
+    - '#0d0300'
+    - '#008f6c'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.9671306090895087
+  rhythmicContrast: 0.5
+purpose: []
