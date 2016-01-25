@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[agni.tilla workshop]]></title>
         <description><![CDATA[agni.tilla workshop]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/agni-tilla-workshop/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 13:47:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 13:49:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/agni-tilla-workshop/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test2</p>]]></description>
+            <link>https://thegrid.ai/agni-tilla-workshop/9c1f0333-ddd5-47d4-ba3a-9854c70a039e/index.html</link>
+            <guid isPermaLink="false">9c1f0333-ddd5-47d4-ba3a-9854c70a039e</guid>
+            <pubDate>Mon, 25 Jan 2016 13:49:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/318ba4bd-468f-4a48-a41f-995c649a1f28.jpg">]]></description>
-            <link>undefined7bcf60e7-6be6-4301-8f9f-a6129359cd28/index.html</link>
+            <link>https://thegrid.ai/agni-tilla-workshop/7bcf60e7-6be6-4301-8f9f-a6129359cd28/index.html</link>
             <guid isPermaLink="false">7bcf60e7-6be6-4301-8f9f-a6129359cd28</guid>
             <pubDate>Mon, 25 Jan 2016 13:47:27 GMT</pubDate>
         </item>
